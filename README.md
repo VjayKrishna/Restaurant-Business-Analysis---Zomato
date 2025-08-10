@@ -12,6 +12,14 @@ This project presents a comprehensive analysis of restaurant performance using Z
 - Pinpoint high-potential restaurants for improvement
 - Map top-rated restaurant clusters by location
 
+## 🧪 Data Preparation
+To enable clean and structured analysis:
+- ✅ Converted **5 raw JSON files** into a unified Excel dataset
+- ✅ Performed data cleaning, normalization, and type formatting
+- ✅ Ensured compatibility with Power BI and PostgreSQL for seamless integration
+
+This preprocessing step was crucial for ensuring data quality and enabling accurate visualizations and insights.
+
 ## 🧠 Key Business Questions Answered
 | Question | Insight |
 |----------|---------|
@@ -37,15 +45,16 @@ This project presents a comprehensive analysis of restaurant performance using Z
 - **Power BI** – Interactive dashboard development
 - **PostgreSQL** – Data querying and structuring
 - **Microsoft Excel** – Data cleaning and preprocessing
+- **JSON** – Raw data source format
 
 ## 📁 Repository Contents
 - `Restaurant_Business_Analysis.pptx` – Presentation deck with dashboard walkthrough
 - `README.md` – Project documentation
-- `Data/` – Raw and cleaned datasets (optional)
+- `Data/` – Raw JSON files and cleaned Excel dataset
 - `Screenshots/` – Dashboard visuals (optional)
 
 ## 🧩 Tags
-`#PowerBI` `#RestaurantAnalytics` `#Zomato` `#BusinessIntelligence` `#SQL` `#EDA` `#DashboardStorytelling`
+`#PowerBI` `#RestaurantAnalytics` `#Zomato` `#BusinessIntelligence` `#SQL` `#EDA` `#DashboardStorytelling` `#JSONtoExcel`
 
 ## 👨‍💻 Author
 **VIJAY KRISHNA S**  
